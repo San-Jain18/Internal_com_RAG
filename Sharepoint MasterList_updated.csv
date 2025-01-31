@@ -1,0 +1,549 @@
+S.No,Topic,Lvl 3 Folder name,Lvl 2 Folder name,Lvl 1 Folder name,Category,Type,Link
+1,Polarion,,,TRAINING VIDEOS _ 2024 BATCH,Requirement management Tool,Video,Freshers Session On Polarian-20240410_144920-Meeting Recording.mp4
+2,Requirement,,,TRAINING VIDEOS _ 2024 BATCH,Requirement,Video,Freshers Session On System Requirement-20240404_144034-Meeting Recording.mp4
+3,Embedded C++,,Embedded C++,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions For Embedded C++-20240320_141101-Meeting Recording.mp4
+4,Embedded C++,,Embedded C++,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions For Embedded C++-20240321_141434-Meeting Recording.mp4
+5,Embedded C++,,Embedded C++,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions For Embedded C++-20240322_142330-Meeting Recording.mp4
+6,Embedded C++,,Embedded C++,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions For Embedded C++-20240325_140809-Meeting Recording.mp4
+7,Embedded C++,,Embedded C++,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions For Embedded C++-20240326_140737-Meeting Recording.mp4
+8,"Embedded Protocols(I2C,SPI,UART)",,"Embedded Protocols(I2C,SPI,UART)",TRAINING VIDEOS _ 2024 BATCH,Software,Video,"Freshers Session For I2C, SPI, and UART-20240402_120322-Meeting Recording.mp4"
+9,Linux,,Linux,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Training session on linux-20240516_150156-Meeting Recording.mp4
+10,Python,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,About Python Session-20240429_113125-Meeting Recording.mp4
+11,Python,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,About Python Session-20240429_113625-Meeting Recording.mp4
+12,Python,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,About Python Session-20240430_152121-Meeting Recording.mp4
+13,Python,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Session On Python-20240425_102633-Meeting Recording.mp4
+14,Python,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Session On Python-20240425_140641-Meeting Recording.mp4
+15,Aspice,,,TRAINING VIDEOS _ 2024 BATCH,Quality,Video,Fresher Session On Aspice-20240312_150125-Meeting Recording.mp4
+16,MIL Testing,,,TRAINING VIDEOS _ 2024 BATCH,System Testing,Video,Freshers MIL Testing Training-20240416_150218-Meeting Recording.mp4
+17,MAT Lab ,,,TRAINING VIDEOS _ 2024 BATCH,Software & System,Video,Freshers Session For MATLAB-Part1.mp4
+18,MAT Lab ,,,TRAINING VIDEOS _ 2024 BATCH,Software & System,Video,Freshers Session For MATLAB-Part2.mp4
+19,Cloud Concepts,,,TRAINING VIDEOS _ 2024 BATCH,System,Video,Freshers Session On Cloud Concepts-20240419_110101-Meeting Recording.mp4
+20,Cloud Concepts,,,TRAINING VIDEOS _ 2024 BATCH,System,Video,Freshers Session On Cloud Concepts-20240422_105956-Meeting Recording.mp4
+21,Systems Engineering Introduction,,,TRAINING VIDEOS _ 2024 BATCH,System,Video,Freshers Session On Introduction to Systems engineering-20240417_150253-Meeting Recording.mp4
+22,Systems Engineering Introduction,,,TRAINING VIDEOS _ 2024 BATCH,System,Video,Freshers Session On Introduction to Systems engineering-20240418_150843-Meeting Recording - Copy.mp4
+23,"Testing  Introduction - Unit,MIL,SIL,HIL,CANOE,Basics of CAPL",,,TRAINING VIDEOS _ 2024 BATCH,Testing,Video,"Freshers Session On Introduction to testing- Unit, MIL, SIL, HIL, CANOE, Basics of CAPL-20240424_110206-Meeting Recording.mp4"
+24,LIN,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Session On LIN-20240509_112710-Meeting Recording.mp4
+25,SysML,,,TRAINING VIDEOS _ 2024 BATCH,Architecture,Video,Freshers Session On SysML-20240405_150455-Meeting Recording.mp4
+26,SysML,,,TRAINING VIDEOS _ 2024 BATCH,Architecture,Video,Freshers Session On SysML-20240412_144515-Meeting Recording.mp4
+27,System Requirement,,,TRAINING VIDEOS _ 2024 BATCH,System,Video,Freshers Session On System Requirement-20240404_144034-Meeting Recording.mp4
+28,AUTOSAR Technology and Concepts,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions On AUTOSAR Technology and Concepts-20240429_152458-Meeting Recording.mp4
+29,AUTOSAR Technology and Concepts,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions On AUTOSAR Technology and Concepts-20240502_102912-Meeting Recording.mp4
+30,AUTOSAR Technology and Concepts,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Freshers Sessions On AUTOSAR Technology and Concepts-20240503_104043-Meeting Recording.mp4
+31,Recap of Electronics and Electrical,,,TRAINING VIDEOS _ 2024 BATCH,Electrical,Video,Freshers Sessions On Recap of electronics and electrical-20240507_163417-Meeting Recording.mp4
+32,"Trends in Automotive Domain, EV, PHEV,E-mobility, Cars for Future",,,TRAINING VIDEOS _ 2024 BATCH,System,Video,"Freshers Sessions On Trends in Automotive domain, EV, PHEV, E-mobility, Cars of future, SDV-20240510_163653-Meeting Recording.mp4"
+33,Bootloader Review,,,TRAINING VIDEOS _ 2024 BATCH,Software,Video,Session On Bootloader overview-20240510_102040-Meeting Recording.mp4
+34,Session on UDS,,,TRAINING VIDEOS _ 2024 BATCH,System,Video,Session on UDS-20240515_110613-Meeting Recording.mp4
+35,HRMS Tool,,,TRAINING VIDEOS _ 2024 BATCH,Tool,Video,Training on HRMS tool-20240322_171243-Meeting Recording.mp4
+36,CAN,,,TRAINING VIDEOS _ 2024 BATCH,Software & System,Video,Training session 1 on CAN-20240515_160531-Meeting Recording.mp4
+37,CAN,,,TRAINING VIDEOS _ 2024 BATCH,Software & System,Video,Trainins session 2 on CAN-20240516_104431-Meeting Recording.mp4
+38,Makefile,,,TRAINING VIDEOS _ 2024 BATCH,Quality,Video,Training session on Makefile-20240517_113030-Meeting Recording.mp4
+39,Automotive_10 Mbs_Domain_Peter,,,VECTOR INDIA CONFERENCE,Software & System,Documents,IAST Software Solutions Pvt Ltd - Automotive_10Mbs_Domain_Peter.pdf - All Documents
+40,Automotive Ethernet_V4_Bosch,,,VECTOR INDIA CONFERENCE,Software & System,Documents,AutomotiveEthernet_v4_Bosh.pdf
+41,Fails - Operational System with Classic and Adaptive AUTOSAR_Markus,,,VECTOR INDIA CONFERENCE,System,Documents,Fail-Operationals System with Classic and Adaptive AUTOSAR_Markus.pdf
+42,How Software Designed Vehicles are driving Software Quality_Kishan,,,VECTOR INDIA CONFERENCE,Software,Documents,How Software Defined Vehicles are driving Software Quality_Kishan.pdf
+43,MACsec_2_CANsec,,,VECTOR INDIA CONFERENCE,Software,Documents,MACsec_2_CANsec.pdf
+44,MICROSAR_Cyber_Security_keymanagement,,,VECTOR INDIA CONFERENCE,Software,Documents,MICROSAR_Cyber_Security_KeyManagement.pdf
+45,Next Generation Diagnostics Compliance in Vehicles ,,,VECTOR INDIA CONFERENCE,Software,Documents,NextGenerationDiagnosticsComplianceInVehicles.pdf
+46,Security Boot Demystified in Automotive,,,VECTOR INDIA CONFERENCE,Software,Documents,SECURE BOOT DEMYSTIFIED IN AUTOMOTIVE_V1.2.pdf
+47,Security_Safety_Overview_Ebert,,,VECTOR INDIA CONFERENCE,Software,Documents,Security_Safety_Overview_Ebert.pdf
+48,Smart_watches_in_automotive_network,,,VECTOR INDIA CONFERENCE,Software,Documents,SmartSwitches_in_Automotive_Networks-Umesh.pdf
+50,Adaptive AUTOSAR,,Adaptive AUTOSAR,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training Session_ IAST Software Solutions Pvt Ltd-Adaptive AUTOSAR-Meeting Recording.mp4
+51,Basic Operating System,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,OS_concept_session1_Basic_Operating_System.mp4
+52,Process Scheduling,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,OS_concept_session2_Process_Scheduling.mp4
+53,IPC,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,OS_concept_session3_IPC.mp4
+54,Process Sync_Memory Management,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,OS_concept_session4_ProcessSync_MemoryManagement.mp4
+55,Deadlocks,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,OS_concept_session5_Deadlocks.mp4
+56,Real Time Scheduling,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,OS_concept_session7_RealTimeScheduling.mp4
+57,RTOS,,Basic Operating System,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Revision Session On RTOS.mp4
+58,C Programming,,C Programming,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training for Calendar Week-3-20220117_084627-Meeting Recording.mp4
+59,CAN_Control Flow,,CAN Control_Flow,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training Session_ IAST Software Solutions Pvt Ltd_20220517_093156.mp4
+60,Canoe Lab,,Canoe Lab,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Canoe _ Ashith.mp4
+61,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 1.mp4
+62,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 2.mp4
+63,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 3.mp4
+64,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,session 4.mp4
+65,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 5.mp4
+66,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 6.mp4
+67,"Communication, CAN_STACK",,"Communication, CAN_STACK",TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 7.mp4
+68,Debugging Techniques,,Debugging Techniques,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Debugging Techniques lab_Sachin.mp4
+69,Design Techniques using MATLAB,,Design Techniques using MATLAB,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Q and A Session.mp4
+70,Design Techniques using MATLAB,,Design Techniques using MATLAB,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Session 1.mp4
+71,Design Techniques using MATLAB,,Design Techniques using MATLAB,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Session 2.mp4
+72,Diagnostic Session,,Diagnostic Session,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Diagnostic session 1 .mp4
+73,Diagnostic Session,,Diagnostic Session,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Diagnostic session 2.mp4
+74,Diagnostic Session,,Diagnostic Session,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Diagnostic session 3.mp4
+75,Diagnostic Session,,Diagnostic Session,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Diagnostic Session 4.mp4
+76,ECU,,ECU,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Training for Calendar Week-3-20220120_090613-Meeting Recording.mp4
+77,Ethernet Protocol,,Ethernet Protocol,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Ethenet 1.mp4
+78,Ethernet Protocol,,Ethernet Protocol,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,ETHERNET 2nd Training Session _ IAST Software Solutions Pvt Ltd.mp4
+79,IBM Rapsody,,IBM Rapsody,TRAINING VIDEOS _ 2021 BATCH,Requirement management Tool,Video,Training Session _IAST Software Solutions Pvt Ltd_20220329_030504.mp4
+80,Memory Stack,,Memory Stack,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 1 Basic Memory Concepts.mp4
+81,Memory Stack,,Memory Stack,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Session 2 Basic Memory Concepts.mp4
+82,Microcontroller,,Microcontroller,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training for Calendar Week-4-20220124_083117-Meeting Recording.mp4
+83,Network Management,,Network Management,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,QA Session_ Sandeep.mp4
+84,Network Management,,Network Management,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Session 1_ Sandeep.mp4
+85,Query Handling,,Query Handling,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Query Handling session _ 1.mp4
+86,Software Layers,,Software Layers,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Software Layer-2.mp4
+87,Software Layers,,Software Layers,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training Session _IAST Software Solutions Pvt Ltd-20220331_083434-Meeting Recording.mp4
+88,Advance Tech in Car,,,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Advance_tech_in_car_session1.mp4
+89,Application Software,,,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,Application_software_by_sumanth.mp4
+90,Basics,,,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Basics Day_1 session.mp4
+91,CAN Protocol Q&A,,,TRAINING VIDEOS _ 2021 BATCH,Software & System,Video,CAN Protocol Q&A and Practicle session.mp4
+92,Drivers,,,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training for Calendar Week-5-20220201_083659-Meeting Recording.mp4
+93,Drivers,,,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training for Calendar Week-5-20220202_084044-Meeting Recording.mp4
+94,Drivers,,,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training for Calendar Week-5-20220203_083442-Meeting Recording.mp4
+95,Drivers,,,TRAINING VIDEOS _ 2021 BATCH,Software,Video,Training for Calendar Week-5-20220204_083852-Meeting Recording.mp4
+97,Basics of C,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 1 ( Basics of C )_ IAST Software Solutions Pvt Ltd-20221107_110009-Meeting Recording.mp4
+98,"Overview of Synchronous and Asynchronous I2C, SPI and UART",,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,"Training Session 10 ( Overview of Synchronous and Asynchronous, I2C, SPI and UART) .mp4"
+99,"Overview of Synchronous and Asynchronous I2C, SPI and UART",,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,"Training Session 11 ( Overview of Synchronous and Asynchronous, I2C, SPI and UART) _ IAST Software Solutions Pvt Ltd-20221202_103959-Meeting Recording.mp4"
+100,Software Architecture of Typical ECU,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,"Training Session 12 ( Software Architecture of typical ECU - Overview on Firmware, Low Level Drivers and Applications_ IAST Software Solutions Pvt Ltd-20221205_105713-Meeting Recording.mp4"
+101,Bootloader Overview,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training session 13 ( Bootloader overview) _ IAST Software Solutions Pvt Ltd-20221206_162949-Meeting Recording.mp4
+102,Recap of Electrical and Electronics along with Sensors,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training Session 14 ( Recap of electronics and electrical along with sensros)_ IAST Software Solutions Pvt Ltd-20221207_111954-Meeting Recording.mp4
+103,Recap of Electrical and Electronics along with Sensors,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training Session 15 ( Recap of electronics and electrical along with sensros)_ IAST Software Solutions Pvt Ltd-20221208_110337-Meeting Recording.mp4
+104,Automotive Protocols_CAN,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training session 16 ( Automotive Protocols _ CAN) _ IAST Software Solutions Pvt Ltd-20221212_113512-Meeting Recording.mp4
+105,Automotive Protocols_CAN,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training session 17 ( Automotive Protocols _ CAN) _ IAST Software Solutions Pvt Ltd-20221213_110527-Meeting Recording.mp4
+106,Automotive Protocols_CAN,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training session 18( Automotive Protocols _ CAN) _ IAST Software Solutions Pvt Ltd-20221214_110306-Meeting Recording.mp4
+107,Automotive Protocols_LIN,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training session 19( Automotive Protocols _ LIN) _ IAST Software Solutions Pvt Ltd-20221215_113133-Meeting Recording.mp4
+108,Basics of C,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 2 ( Basics of C )_ IAST Software Solutions Pvt Ltd-20221108_103435-Meeting Recording.mp4
+109,Automotive Protocols_Ethernet,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training session 20 ( Automotive Protocols _ Ethernet) _ IAST Software Solutions Pvt Ltd-20221220_140343-Meeting Recording.mp4
+110,Diagnostics Overview based  on ISO14229,,,TRAINING VIDEOS _ 2022 BATCH,Software & System,Video,Training Session 21 (Diagnostics overview based on ISO14229) _ IAST Software Solutions Pvt Ltd-20221221_110319-Meeting Recording.mp4
+111,Diagnostics Overview based  on ISO14230,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 22 (Diagnostics overview based on ISO14229) _ IAST Software Solutions Pvt Ltd-20221222_110602-Meeting Recording.mp4
+112,Diagnostics Overview based  on ISO14231,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 23 (Diagnostics overview based on ISO14229) _ IAST Software Solutions Pvt Ltd-20221226_110407-Meeting Recording.mp4
+113,AUTOSAR Technology and Concepts,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training session 24 ( AUTOSAR Technology and Concepts) _ IAST Software Solutions Pvt Ltd-20221227_113907-Meeting Recording.mp4
+114,"Introduction to Testing - Unit, MIL, SIL, HIL, CANOE, Basics of SAPL",,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,"Training Session 27 (Introduction to testing- Unit, MIL, SIL, HIL, CANOE, Basics of CAPL) _ IAST Software Solutions Pvt Ltd-20230104_150105-Meeting Recording.mp4"
+115,Basics of C,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 3 ( Basics of C )_ IAST Software Solutions Pvt Ltd-20221109_104341-Meeting Recording.mp4
+116,Basics of C,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 4 ( Basics of C) _ IAST Software Solutions PVT Ltd-20221110_105929-Meeting Recording.mp4
+117,Basics of C,,,TRAINING VIDEOS _ 2022 BATCH,Software,Video,Training Session 5 ( Basics of C) _ IAST Software Solutions Pvt Ltd-20221111_100729-Meeting Recording.mp4
+118,Basics of Automotive,,,TRAINING VIDEOS _ 2022 BATCH,System,Video,Training Session 6 ( Basics of Automotive) _ IAST Software Solutions Pvt Ltd-20221116_110333-Meeting Recording.mp4
+119,V Model,,,TRAINING VIDEOS _ 2022 BATCH,Quality,Video,Training Session 8 ( V Model).mp4
+120,QMS Overview,,,TRAINING VIDEOS _ 2022 BATCH,Quality,Video,Training Session 9 ( QMS Overview) _ IAST Software Solutions Pvt Ltd-20221128_170413-Meeting Recording.mp4
+122,Functional Safety,,Functional Safety,TRAINING RECORD,System,Documents,ISO26262_Level1_Records.xlsx
+123,Functional Safety,,Functional Safety,TRAINING RECORD,System,Documents,Session1_Level1_15022023.pdf
+124,Functional Safety,,Functional Safety,TRAINING RECORD,System,Documents,Session2_Level1_17032023.pdf
+125,Functional Safety,,,TRAINING RECORD,System,Documents,Session3_Level1_11052023.pdf
+126,Functional Safety,,,TRAINING RECORD,System,Documents,Session4_Level1_16062023.pdf
+127,Functional Safety,,,TRAINING RECORD,System,Documents,Session5_Level1_06102023.pdf
+128,Functional Safety,,,TRAINING RECORD,System,Documents,FMEA TRAINING - Attendance report 5-23-23.csv
+129,Functional Safety,,,TRAINING RECORD,System,Documents,Level-1_Assessment_Records.xlsx
+130,Human Resource,,Human Resource,TRAINING RECORD,Management,Documents,Business Communication classes.pdf
+131,IT and Information Security,,IT and Information Security,TRAINING RECORD,Management,Documents,IAST Security Polices Participants List.xlsx
+132,Quality,,Quality,TRAINING RECORD,Quality,Documents,ASPICE Assessment Record.xlsx
+133,Attendance report,,,TRAINING RECORD,Management,Documents,Discussion on Management Review Meeting - Attendance report 6-08-23.csv
+134,Attendance report,,,TRAINING RECORD,Management,Documents,Discussion on Objective Monitoring Table - Attendance report 3-07-23.csv
+135,TRAINING PLAN SEPTEMBER 2023_BATCH,,,,,,Documents
+136,September 2023 Batch Training Plan,,,TRAINING PLAN SEPTEMBER 2023_BATCH,Management,Documents,September 2023 batch training plan.xlsx
+137,TRAINING PLAN 2024,,,,,,
+138,2024 Batch Training Plan,,,TRAINING PLAN 2024,Management,Documents,2024 batch training plan - Copy.xlsx
+139,2024 Batch Training Plan,,,TRAINING PLAN 2024,Management,Documents,2024 batch training plan.xlsx
+141,Agile Presentation,,Agile Methodology,TRAINING MATERIAL,Management,Documents,Agile Presentation.pptx
+142,BR01_Daily_Scrum,,Agile Methodology,TRAINING MATERIAL,Management,Video,BR01 Daily Scrum-20230331_102320-Meeting Recording.mp4
+143,KT on Jira Software Management Tool,,Agile Methodology,TRAINING MATERIAL,Management,Video,KT on Jira Software Management Tool-20230920_143950-Meeting Recording.mp4
+144,Functional Safety,External Training Drivvise,Functional Safety,TRAINING MATERIAL,System,Documents,Drivvize_ISO26262_Part6_FuSa_Week_Nov_2024_Training.pdf
+145,Functional Safety,External Training Drivvise,Functional Safety,TRAINING MATERIAL,System,Documents,Drivvize_ISO26262_SW_Safety_Analysis_and_DFA_FuSa_Week_Nov_2024_Training.pdf
+146,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,FTA-FMEA-TUV.pdf
+147,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P1.pdf
+148,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P10.pdf
+149,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P11.pdf
+150,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P12.pdf
+151,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P2.pdf
+152,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P3.pdf
+153,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P4.pdf
+154,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P5.pdf
+155,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P6.pdf
+156,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P7.pdf
+157,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P8.pdf
+158,Functional Safety,External Training TUV-SUD,Functional Safety,TRAINING MATERIAL,System,Documents,P9.pdf
+159,Functional Safety,Internal Training,Functional Safety,TRAINING MATERIAL,System,Documents,FMEA Presentation for Internal Training.pptx
+160,Functional Safety,Internal Training,Functional Safety,TRAINING MATERIAL,System,Video,FMEA TRAINING-20230523_160352-Meeting Recording (2).mp4
+161,ISO26262,Internal Training,Functional Safety,TRAINING MATERIAL,System,Documents,ISO 26262 Level 1ppt.pdf
+162,Human Resource,ISO 26262,Functional Safety,TRAINING MATERIAL,Management,Documents,20231013_mes_webinar_iso_26262_in_10_steps.pdf
+163,Posh Training,Posh Training,Human Resource,TRAINING MATERIAL,Management,Documents,POSH Training _ IAST_ 27th September 2023 - Attendance report 9-27-23.csv
+164,Posh Training,Posh Training,Human Resource,TRAINING MATERIAL,Management,Video,POSH Training _ IAST_ 27th September 2023-20230927_174837-Meeting Recording.mp4
+165,Posh Training,Posh Training,Human Resource,TRAINING MATERIAL,Management,Documents,POSH training attendance.pdf
+166,Posh Training,Posh Training,Human Resource,TRAINING MATERIAL,Management,Documents,Updated Posh PPT_ IAST Autosaved.pptx
+167,Wellness Session,Wellness Session,Human Resource,TRAINING MATERIAL,Management,Documents,Employees Wellness Session_ IAST - Attendance report 9-25-23.csv
+168,Wellness Session,Wellness Session,Human Resource,TRAINING MATERIAL,Management,Video,Employees Wellness Session_ IAST-20230925_163838-Meeting Recording.mp4
+169,Wellness Session,Wellness Session,Human Resource,TRAINING MATERIAL,Management,Documents,Holistic_Health_Webinar_ISAT (1).pptx
+170,Wellness Session,Wellness Session,Human Resource,TRAINING MATERIAL,Management,Documents,Wellness session attendance.pdf
+171,Aspice,Aspice,Quality,TRAINING MATERIAL,Quality,Video,ASPICE Intro Session by Aparajita Paul-20230421_103458-Meeting Recording (1).mp4
+172,Aspice,Aspice,Quality,TRAINING MATERIAL,Quality,Documents,ASPICE training pdf.pdf
+173,Aspice,,Quality,TRAINING MATERIAL,Quality,Video,Discussion on Configuration Index & ASPICE3.1 Folder Structure-20230714_143200-Meeting Recording.mp4
+174,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Documents,BOOK - Requirements Engineering Fundamentals - Study Guide for CPRE Foundation Exam.pdf
+175,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Documents,GPEP_Requirements_Guideline.pdf
+176,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Documents,ImprovingRequirementsSpec.pdf
+177,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Documents,Requirement_Engineering_Basics.pptx
+178,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Documents,Work Instruction System Requirements Analysis - 7801.pdf
+179,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Video,Ramp Up_ Requirement Decomposition_ By Rajashekar-Basics 1.mp4
+180,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Video,Ramp Up_ Requirement Decomposition_ By Rajashekar-Basics2.mp4
+181,Requirement Engineering,Requirement Engineering,System,TRAINING MATERIAL,System,Video,Requirement management tool session_Rajashekar.mp4
+182,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. State Machine by Divakar.pptx
+183,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. SysML Introduction by Divakar.pptx
+184,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. Use case Diagram by Divakar.pptx
+185,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. BDD IBD diagram by Apoorva.pptx
+186,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd.-Requirement diagram by Shivaguru.pptx
+187,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd.-Sequence diagram by Shivaguru.pptx
+188,SysML,SysML,System,TRAINING MATERIAL,System,Documents,SysML Ramp Up-IAST Software Solutions Pvt Ltd-Activity diagram and Package diagram by Divakar & Apoorva.pptx
+189,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. SysML Introduction by Divakar.mp4
+190,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. State machine by Divakar.mp4
+191,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd. Use case diagram by Divakar.mp4
+192,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd.-BDD & IBD diagrams by Apoorva.mp4
+193,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd.-requirement diagram by Shivaguru.mp4
+194,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up Session_ IAST Software Solutions Pvt Ltd.-Sequence diagram by Shivaguru.mp4
+195,SysML,SysML,System,TRAINING MATERIAL,System,Video,SysML Ramp Up_ IAST Software Solutions Pvt Ltd-Activity diagram and Package diagram by Divakar & Apoorva.mp4
+198,TECHNICAL DISCUSSION,,PPT,SDV,System,Documents,Vector SDV Summit 1 1.pptx
+199,TECHNICAL DISCUSSION,,Video,SDV,System,Video,System Engineering group technical sessions-20240910_093542-Meeting Recording.mp4
+200,TECHNICAL DISCUSSION,,PPT,OTA,System,Documents,OTA.pptx
+201,TECHNICAL DISCUSSION,,Video,OTA,System,Video,System Engineering group technical sessions-20240813_093212-Meeting Recording.mp4
+202,TECHNICAL DISCUSSION,,PPT,V2G,System,Documents,V2G.pptx
+203,TECHNICAL DISCUSSION,,Video,V2G,System,Video,System Engineering group technical sessions-20240716_093416-Meeting Recording.mp4
+204,TECHNICAL DISCUSSION,,PPT,IOT,System,Documents,Internet of things in Intelligent transportation system.pptx
+205,TECHNICAL DISCUSSION,,Video,IOT,System,Video,System Engineering group technical sessions-20240702_093448-Meeting Recording.mp4
+206,TECHNICAL DISCUSSION,,PPT,HUD,System,Documents,Presentation1 2.pptx
+207,TECHNICAL DISCUSSION,,,Excel Sheet,System,Documents,Technical Discussion Topic.xlsx
+208,TECHNICAL DISCUSSION,,PPT,Boot Loader,System,Documents,Bootloader.pptx
+209,TECHNICAL DISCUSSION,,Video,Boot Loader,System,Video,System Engineering group technical sessions-20240924_093635-Meeting Recording.mp4
+210,TECHNICAL DISCUSSION,,PPT,Cyber Security,System,Documents,Cyber_Security.pptx
+211,TECHNICAL DISCUSSION,,Video,Cyber Security,System,Video,System Engineering group technical sessions-20240827_093504-Meeting Recording.mp4
+212,TECHNICAL DISCUSSION,,PPT,OBC & DCDC,System,Documents,OBC.pptx
+213,TECHNICAL DISCUSSION,,Video,OBC & DCDC,System,Video,System Engineering group technical sessions-20240730_093443-Meeting Recording.mp4
+214,TECHNICAL DISCUSSION,,PPT,Eclipse,System,Documents,Eclipse-uProtocol-Overview (1).pptx
+215,TECHNICAL DISCUSSION,,Video,Eclipse,System,Video,System Engineering group technical sessions-20241105_093643-Meeting Recording.mp4
+216,TECHNICAL DISCUSSION,,PPT,Flex Fuel,System,Documents,Flex fuel technology (E85).pptx
+217,TECHNICAL DISCUSSION,,Video,Flex Fuel,System,Video,System Engineering group technical sessions-20241008_093128-Meeting Recording.mp4
+219,AUTOSAR,,AUTOSAR,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,AUTOSAR Methodology Tools & RTE SWC.pptx
+220,AUTOSAR,,AUTOSAR,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf
+221,AUTOSAR,,AUTOSAR,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,AUTOSAR_TR_Methodology.pdf
+222,AUTOSAR,,AUTOSAR,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Vector autosar-on-the-way-1-19.pdf
+223,Basic Electric & Electronics,,Basic Electric & Electronics,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Training Session 14 ( Recap of electronics and electrical along with sensros)PPT2-Current.pdf
+224,Basic Electric & Electronics,,Basic Electric & Electronics,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Training Session 14 ( Recap of electronics and electrical along with sensros)PPT3- Basic electronic Components.pdf
+225,Basic Electric & Electronics,,Basic Electric & Electronics,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Training Session 14 ( Recap of electronics and electrical along with sensros)PPT4-Basic Electrical Concepts.pdf
+226,Basic Electric & Electronics,,Basic Electric & Electronics,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Training session 14 _ ( Recap of electronics and electrical along with sensros) PPT1-Voltage.pdf
+227,Basic Electric & Electronics,,Basic Electric & Electronics,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Training Session 15 ( Recap of electronics and electrical along with sensros)PPT5-ESD.pdf
+228,Basic Electric & Electronics,,Basic Electric & Electronics,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Training Session 15 ( Recap of electronics and electrical along with sensros)PPT6-Sensors.pdf
+229,Basic C,,Basic C,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Training Session 1 _ Basics of C.pdf
+230,Basic C,,Basic C,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Training Session 2 _ Basics of C.pdf
+231,Basic C,,Basic C,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Training Session 3 _ Basics of C.pdf
+232,Basic C,,Basic C,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Training Session 5 _ Basics of C.pdf
+233,Bootloader,,Bootloader,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Bootloader.pptx
+234,C++,,C++,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,C++ Training 1_21March.pptx
+235,C++,,C++,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,PPT2.pptx
+236,C++,,C++,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,PPT3.pptx
+237,CAN,CAN,CAN,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,CAN_1.pptx
+238,CAN,CAN,CAN,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,CAN_2.pptx
+239,Cloud_concepts,,Cloud_concepts,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Cloud Computing Basics.pdf
+240,Communication Protocols,Communication Protocol,"Communication Protocols I2C, SPC, UART",TRAINING DOCUMENTS_2024 BATCH,Software,Documents,"Training Session 10 ( Overview of Synchronous and Asynchronous, I2C, SPI and UART) .pdf"
+241,Communication Protocols,Communication Protocol,"Communication Protocols I2C, SPC, UART",TRAINING DOCUMENTS_2024 BATCH,Software,Documents,"Training Session 11 ( Overview of Synchronous and Asynchronous, I2C, SPI and UART).pdf"
+242,Ethernet,,Ethernet,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Ethernet 2.pptx
+243,LIN,,LIN,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,local interconnect network (2).pptx
+244,Polarion,,Polarion,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,polarion training.xlsx
+245,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,3 Control Flow Statements.html
+246,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,4 Functions.html
+247,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Arrays.html
+248,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Decorators.html
+249,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Exception_Handling.html
+250,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,FILE HANDLING.html
+251,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,MatplotLib.html
+252,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Memory_Allocation.html
+253,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,OOPS_Python.html
+254,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,PANDAS.html
+255,Python,Python,Python,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Python Assignment.xlsx
+256,QMS,QMS,Python,TRAINING DOCUMENTS_2024 BATCH,Quality,Documents,Training Session 9 _ QMS Overview.pptx
+257,QMS,QMS,Python,TRAINING DOCUMENTS_2024 BATCH,Quality,Documents,Training Session_QMS Overview_2024(1).pptx
+258,Software Requirements,,Software Requirements,TRAINING DOCUMENTS_2024 BATCH,Software,Documents,ImprovingRequirementsSpec.pdf
+259,"SPI, I2C",,"SPI, I2C",TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Communication_Protocol_Day1.pptx
+260,"SPI, I2C",,"SPI, I2C",TRAINING DOCUMENTS_2024 BATCH,Software,Documents,Communication_Protocol_Day2.pptx
+261,SysML,,SysML,TRAINING DOCUMENTS_2024 BATCH,System,Documents,SysML Intro 2024 1 1.pptx
+262,SysML,,SysML,TRAINING DOCUMENTS_2024 BATCH,System,Documents,SysML_UML Training (1).pptx
+263,SysML,,SysML,TRAINING DOCUMENTS_2024 BATCH,System,Documents,SysMLTraining.pptx
+264,System Engineering,,System Engineering,TRAINING DOCUMENTS_2024 BATCH,System,Documents,Automative Domains and Architecture.pptx
+265,Testing,Testing,Testing HIL_SIL_MIL CAPL&CANOE,TRAINING DOCUMENTS_2024 BATCH,Testing,Documents,"IAST_Intro_Testing_Unit,HIL_SIL_Canoe_CAPL.pptx"
+266,Testing,Testing,Testing HIL_SIL_MIL CAPL&CANOE,TRAINING DOCUMENTS_2024 BATCH,Testing,Documents,Training Session 27( Introduction to testing).pdf
+267,Training Plan,,Training Plan Excel Sheet,TRAINING DOCUMENTS_2024 BATCH,Management,Documents,Training plan link-1.xlsx
+268,UDS,UDS ,UDS ,TRAINING DOCUMENTS_2024 BATCH,Software & System,Documents,ISO_14229-1_2013.en.PDF.pdf
+269,UDS,UDS ,UDS ,TRAINING DOCUMENTS_2024 BATCH,Software & System,Documents,Training session_ UDS.pptx
+270,UDS,UDS ,UDS ,TRAINING DOCUMENTS_2024 BATCH,Software & System,Documents,UDS ppt.pdf
+271,V Model,V_Model,V Model,TRAINING DOCUMENTS_2024 BATCH,Quality,Documents,Training session 8 _ V Model.pdf
+272,V Model,V_Model,V Model,TRAINING DOCUMENTS_2024 BATCH,Quality,Documents,Training session_ V Model.pptx
+274,Basics of C,,,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,Training Session 1 _ Basics of C.pptx
+275,"Overview of Synchronous and Asynchronous I2C, SPI and UART",,Overview of Synchronous and Asynchronous I C SPI and UART Epcaand UA Shaae,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,"Training Session 10 ( Overview of Synchronous and Asynchronous, I2C, SPI and UART) .pptx"
+276,"Overview of Synchronous and Asynchronous I2C, SPI and UART",,Overview of Synchronous and Asynchronous I C SPI and UART Epcaand UA Shaae,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,"Training Session 11 ( Overview of Synchronous and Asynchronous, I2C, SPI and UART).pptx"
+277,Software Architecture of Typical ECU,,Software Architecture of Typical ECU Epcaypical E Shaae,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,"Training Session 12 ( Software Architecture of typical ECU - Overview on Firmware, Low Level Drivers and Applications.pptx"
+278,Bootloader Overview,,,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,Training Session 13 _Bootloader overview.pptx
+279,Recap of Electrical and Electronics along with Sensors,,Recap of Electrical and Electronics along with Sensors Epcmenso Shmmm,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training Session 14 ( Recap of electronics and electrical along with sensros)PPT2-Current.pptx
+280,Recap of Electrical and Electronics along with Sensors,,Recap of Electrical and Electronics along with Sensors Epcmenso Shmmm,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training Session 14 ( Recap of electronics and electrical along with sensros)PPT3- Basic electronic Components.pptx
+281,Recap of Electrical and Electronics along with Sensors,,Recap of Electrical and Electronics along with Sensors Epcmenso Shmmm,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training Session 14 ( Recap of electronics and electrical along with sensros)PPT4-Basic Electrical Concepts.pptx
+282,Recap of Electrical and Electronics along with Sensors,,,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training session 14 _ ( Recap of electronics and electrical along with sensros) PPT1-Voltage.pptx
+283,Recap of Electrical and Electronics along with Sensors,,Recap of Electrical and Electronics along with Sensors Epcmenso Shmmm,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training Session 15 ( Recap of electronics and electrical along with sensros)PPT5-ESD.pptx
+284,Recap of Electrical and Electronics along with Sensors,,Recap of Electrical and Electronics along with Sensors Epcmenso Shmmm,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training Session 15 ( Recap of electronics and electrical along with sensros)PPT6-Sensors.pptx
+285,Automotive Protocols_CAN,,,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training session 16 ( Automotive Protocols _ CAN) .pptx
+286,Automotive Protocols_CAN,,,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training session 17 ( Automotive Protocols _ CAN).pptx
+287,Automotive Protocols_CAN,,,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training session 18( Automotive Protocols _ CAN).pptx
+288,Automotive Protocols_LIN,,,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training session 19( Automotive Protocols _ LIN).pptx
+289,Basics of C,,,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,Training Session 2 _ Basics of C.pptx
+290,Basics of ISO26262,,,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,Training Session 20_BASICS of ISO 26262 - freshers.pptx
+291,Introduction to Testing ,,Introduction to Testing ,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,Training Session 27( Introduction to testing).pptx
+292,Basics of C,,,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,Training Session 3 _ Basics of C.pptx
+293,Basics of C,,,TRAINING DOCUMENTS_2022 BATCH,Software,Documents,Training Session 5 _ Basics of C.pptx
+294,Automotive Basics,,,TRAINING DOCUMENTS_2022 BATCH,System,Documents,Training Session 6 _ Automotive basics.pptx
+295,V Model,,,TRAINING DOCUMENTS_2022 BATCH,Quality,Documents,Training session 8 _ V Model.pptx
+296,QMS Overview,,,TRAINING DOCUMENTS_2022 BATCH,Quality,Documents,Training Session 9 _ QMS Overview.pptx
+297,UDS,,UDS ,TRAINING DOCUMENTS_2022 BATCH,Software & System,Documents,UDS ppt.pptx
+298,TRAINING DOCUMENTS_2021 BATCH,,,,,,
+299,Adaptive AUTOSAR,,Adaptive AUTOSAR,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Adaptive_Autosar_PrasanjitGhosh.pptx
+300,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Architecture.pptx
+301,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Automotive basics.pptx
+302,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Basics DAY_1.pptx
+303,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Basics DAY_3.pptx
+304,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Basics DAY_4.pptx
+305,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Basics DAY_5.pptx
+306,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Basics Programming DAY_2.pptx
+307,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Basics_Assignments.pptx
+308,Basics of Programming,,Basics of Programming,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Code_Blocks_Installation.pptx
+309,Canoe,,Canoe,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Canoe_Ashith.pdf
+310,AUTOSAR Architecture and Basics of BSW,,Classic AUTOSAR Architecture and Basics of BSW,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf
+311,Corporate Etiquette,,Corporate Etiquette Excel Sheet,TRAINING DOCUMENTS_2021 BATCH,Management,Documents,Corporate etiquette.pptx
+312,Design Techniques using MATLAB,,Design Techniques using MATLAB,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,matlab_simulink_tutorial.pdf
+313,Design Techniques using MATLAB,,Design Techniques using MATLAB,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,Matlab_Training.zip
+314,Design Techniques using MATLAB,,Design Techniques using MATLAB Ecausing MATL Shaae,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,tutorial1.pdf
+315,Diagnostic Techniques,,Diagnostic Techniques,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,AutoCore_Generic_Diagnostic_Stack_documentation.pdf
+316,Diagnostic Techniques,,Diagnostic Techniques,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,ISO_14229-1_EN_2013-03-15_view (1).pdf
+317,Diagnostic Techniques,,Diagnostic Techniques,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,UDS ppt _ session 1.pptx
+318,Ethernet,,Ethernet,TRAINING DOCUMENTS_2021 BATCH,Software & System,Documents,Ethernet_Manu prateek.pptx
+319,Intensive Model,,Intensive Model,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,CAN_1.pptx
+320,Intensive Model,,Intensive Model,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,CAN_2.pptx
+321,Intensive Model,,Intensive Model,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,CAN_3.pptx
+322,Intensive Model,,Intensive Model ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,can2spec.pdf
+323,LIN,,LIN,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,AUTOSAR_SRS_LIN.pdf
+324,LIN,,LIN,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,AUTOSAR_SWS_LINDriver.pdf
+325,LIN,,LIN,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Lin_2.0_Specification_Package (1).pdf
+326,LIN,,LIN,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LIN-Spec_Pac2_1.pdf
+327,LIN,,LIN,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,local interconnect network_Prathiksha Shetty.pptx
+328,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,DAY_1_MCA (1).pptx
+329,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,DAY_1_MCA.pptx
+330,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,DAY_2_MCA.pptx
+331,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Infineon-TC21x-TC22x-TC23x-UM-v01_01-EN.pdf
+332,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Infineon-TC2xx_Architecture_vol1-UM-v01_00-EN (3).pdf
+333,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LPC2141_42_44_46_48.pdf
+334,MCA,,MCA ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LPC2148 DEVELOPMENT BOARD V1R1 NSK238 SCHEMATIC.pdf
+335,MCA,,MCA ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LPC2148 MINI DEV BOARD.pdf
+336,MCA,,MCA ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LPC2148 PROGRAMMING PROCEDURE.pdf
+337,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LPC214x_user_manual.pdf
+338,MCA,,MCA,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,LPC21xx_user_manual.pdf
+339,MCAL_CDD_TRAINING,,MCAL CDD TRAINING ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Ricardo.zip
+340,MCAL_CDD_TRAINING,,MCAL_CDD_TRAINING,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Test_Report_RICARDO.docx
+341,Memory Stack,,Memory Stack ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,AUTOSAR Memory Stack.docx
+342,Network Management,,Network Management,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,AUTOSAR_SWS_CANNetworkManagement _ Sandeep.pdf
+343,Network Management,,Network Management,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,NM _ Sandeep.pptx
+344,RTOS_INTENSIVE,,RTOS INTENSIVE ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,01Introduction.ppt
+345,RTOS_INTENSIVE,,RTOS INTENSIVE ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,02ProcessesThreads.ppt
+346,RTOS_INTENSIVE,,RTOS INTENSIVE ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,03IPC.ppt
+347,RTOS_INTENSIVE,,RTOS INTENSIVE ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,04ProcessSynchronizationUPDATED.ppt
+348,RTOS_INTENSIVE,,RTOS INTENSIVE ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,05Deadlocks-1.ppt
+349,RTOS_INTENSIVE,,RTOS INTENSIVE ,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,06Memory Management -Part1.ppt
+350,RTOS_INTENSIVE,,,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,07Real time scheduling_1.ppt
+351,RTOS_INTENSIVE,,RTOS_INTENSIVE,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Day1_app_Sumanth.pptx
+352,RTOS_INTENSIVE,,RTOS_INTENSIVE,TRAINING DOCUMENTS_2021 BATCH,Software,Documents,Operating_Systems_Concepts.pdf
+353,RTOS_INTENSIVE,,,TRAINING DOCUMENTS_2021 BATCH,Quality,Documents,Quality Management System_Preemal.pptx
+354,RTOS_INTENSIVE,,,TRAINING DOCUMENTS_2021 BATCH,Quality,Documents,V-Model in Software Engineering_Charan.pptx
+356,C Sharp Training,,C Sharp Training,TRAINING C SHARP,Software,Video,C_ First Session-20240711_110227-Meeting Recording.mp4
+358,Assignment Marks,,Assignment Marks,NEW JOINERS ASSIGNMENT_SEPTEMBER BATCH,,Documents,Assignment Marks Matrix.xlsx
+359,IAST SKILL MATRIX YEAR 2023,,IAST SKILL MATRIX YEAR 2023,NEW JOINERS ASSIGNMENT_SEPTEMBER BATCH,,Documents,Functional Safety Team Skill Matrix.xlsx
+360,IAST SKILL MATRIX YEAR 2023,,IAST SKILL MATRIX YEAR 2023,NEW JOINERS ASSIGNMENT_SEPTEMBER BATCH,,Documents,Quality Team Skill Matrix.xlsx
+361,IAST SKILL MATRIX YEAR 2023,,IAST SKILL MATRIX YEAR 2023,NEW JOINERS ASSIGNMENT_SEPTEMBER BATCH,,Documents,Security Team Skill Matrix.xlsx
+362,IAST SKILL MATRIX YEAR 2023,,IAST SKILL MATRIX YEAR 2023,NEW JOINERS ASSIGNMENT_SEPTEMBER BATCH,,Documents,Systems Team Skill Matrix.xlsx
+363,IAST ISMS POLICIES,,,,,,
+364,Acceptable Use Policy,,Acceptable Use Policy ,IAST ISMS POLICIES,Management,Documents,Acceptable Use Policy.pdf
+365,Access Control Policy,,Access Control Policy,IAST ISMS POLICIES,Management,Documents,Access Control Policy V1.0.pdf
+366,Audit Policy,,Audit Policy ,IAST ISMS POLICIES,Management,Documents,Audit Policy V1.0 docx.pdf
+367,Backup Policy,,Backup Policy ,IAST ISMS POLICIES,Management,Documents,Backup Policy V1.0.pdf
+368,Clear Desktop Policy,,Clear Desktop Policy ,IAST ISMS POLICIES,Management,Documents,Clear Desktop Policy V1.0.pdf
+369,Cloud Security Policy,,Cloud Security Policy ,IAST ISMS POLICIES,Management,Documents,Cloud Security Policy V1.0.pdf
+370,Configuration Management Policy,,Configuration Management Policy ,IAST ISMS POLICIES,Management,Documents,Configuration Management Policy.pdf
+371,Contingency Planning Policy,,Contingency Planning Policy ,IAST ISMS POLICIES,Management,Documents,Contingency Planning Policy.pdf
+372,Cryptographic Policy,,Cryptographic Policy ,IAST ISMS POLICIES,Management,Documents,Cryptographic Policy V1.0.pdf
+373,Data Classification and Handling Policy,,Data Classification and Handling Policy,IAST ISMS POLICIES,Management,Documents,Data Classification and Handling Policy V1.0.pdf
+374,Identification and Authentication Policy,,Identification and Authentication Policy ,IAST ISMS POLICIES,Management,Documents,Identification and Authentication Policy.pdf
+375,Incident Response Policy,,Incident Response Policy ,IAST ISMS POLICIES,Management,Documents,Incident Response Policy V1.0.pdf
+376,Information Security Policy,,Information Security Policy,IAST ISMS POLICIES,Management,Documents,Information Security Policy V1.0.pdf
+377,Intellectual Property Rights Policy,,Intellectual Property Rights Policy ,IAST ISMS POLICIES,Management,Documents,Intellectual Property Rights Policy V1.0.pdf
+378,Internet and Email Policy,,Internet and Email Policy ,IAST ISMS POLICIES,Management,Documents,Internet and Email Policy.pdf
+379,ISMS Disaster Recovery Plan,,,IAST ISMS POLICIES,Management,Documents,ISMS_Disaster Recovery Plan.pdf
+380,Laptop Policy,,Laptop Policy ,IAST ISMS POLICIES,Management,Documents,Laptop Policy.pdf
+381,Malware Policy,,Malware Policy ,IAST ISMS POLICIES,Management,Documents,Malware Policy.pdf
+382,Media Protection Policy,,Media Protection Policy,IAST ISMS POLICIES,Management,Documents,Media Protection Policy.pdf
+383,Mobile Device,,Mobile Device ,IAST ISMS POLICIES,Management,Documents,Mobile Device V1.0.pdf
+384,Network Security Policy,,Network Security Policy ,IAST ISMS POLICIES,Management,Documents,Network Security Policy V1.0.pdf
+385,Password Policy,,Password Policy ,IAST ISMS POLICIES,Management,Documents,Password Policy V1.0.pdf
+386,Personnel Security Policy,,Personnel Security Policy ,IAST ISMS POLICIES,Management,Documents,Personnel Security Policy V1.0.pdf
+387,Physical and Envronmental Policy,,Physical and Envronmental Policy ,IAST ISMS POLICIES,Management,Documents,Physical and Environmental Policy V1.0.pdf
+388,Risk Assessment and Management Policy,,Risk Assessment and Management Policy ,IAST ISMS POLICIES,Management,Documents,Risk Assessment and Management PolicyV1.0.pdf
+389,Security Awareness Training and Testing Policy,,Security Awareness Training and Testing Policy ,IAST ISMS POLICIES,Management,Documents,Security Awareness Training and Testing Policy.pdf
+390,Server Security Policy,,Server Security Policy ,IAST ISMS POLICIES,Management,Documents,Server Security Policy V1.0.pdf
+391,System Integrity Policy,,System Integrity Policy,IAST ISMS POLICIES,Management,Documents,System Integrity Policy.pdf
+392,System Maintenance Policy,,System Maintenance Policy ,IAST ISMS POLICIES,Management,Documents,System Maintenance Policy.pdf
+393,System Maintenance Policy,,System Maintenance Policy  ,IAST ISMS POLICIES,Management,Documents,System Maintenance Policy.V1.0docx.pdf
+394,Telecommunicating Policy,,Telecommunicating Policy  ,IAST ISMS POLICIES,Management,Documents,Telecommuting Policy V1.0.pdf
+395,Third Party Risk Assessment Policy,,Third Party Risk Assessment Policy Cceoli Sseet,IAST ISMS POLICIES,Management,Documents,Third Party Risk Management Policy.pdf
+396,User Access Policy,,User Access Policy ,IAST ISMS POLICIES,Management,Documents,User Access Policy V1.0.pdf
+397,VAPT Policy,,VAPT Policy ,IAST ISMS POLICIES,Management,Documents,VAPT Policy V1.0.pdf
+398,VPN Policy,,VPN Policy ,IAST ISMS POLICIES,Management,Documents,VPN Policy.pdf
+400,Archive,,Archive,CI_CD,Software,Documents,CI_CD_Reference_Document_V1.0.pdf
+401,KT_Recording,,KT_Recording,CI_CD,Software,Video,KT on Jenkins-20240215_142044-Meeting Recording.mp4
+402,Review_Check_List,,Review_Check_List,CI_CD,Software,Video,1319_Review_Record_CI_CD_Reference_Doc.xlsx
+403,Review_Check_List,,,CI_CD,Software,Video,CI_CD_Reference_Document.docx
+404,Review_Check_List,,,CI_CD,Software,Video,Flow_Control_of_CI_CD.html
+406,Bhilai Hiring Database,,,BHILAI_HIRING DATABASE,Management,Documents,Hiring Database _ Bhilai.xlsx
+408,Assessment 1 Questions,,,Assessment Report,Assessment,Documents,Assessment 1 Questions _ IAST.pdf
+409,Assessment 1- Ayush Verma,,,Assessment Report,Assessment,Documents,ASSESSMENT 1_- AYUSH VERMA.pdf
+410,Assessment Marks Matrix,,Assessment Marks Matrix  ,Assessment Report,Assessment,Documents,Assessment Marks Matrix.xlsx
+411,Assessment 1- Bharati,,Assessment 1- Bharati,Assessment Report,Assessment,Documents,BHARATI_ASSESSMENT_1.pdf
+412,Assessment 1- Chethan M K,,Assessment Chethan M K ocshethan M tsst,Assessment Report,Assessment,Documents,Chethan M K -Assessment 1.pdf
+413,Assessment 1- Shikha Dhar,,Assessment Shikha Dhar ,Assessment Report,Assessment,Documents,Shikha Dhar Assessment - 1.pdf
+416,Amarnath Mahato,,,Assessment Documents_2024 Batch,Assessment,Documents,C_assessment(Amarnath Mahato).docx
+417,Amarnath Mahato,,,Assessment Documents_2024 Batch,Assessment,Documents,C_assessment(Amarnath Mahato).pdf
+418,Aryan Ojha,,Aryan Ojha,Assessment Documents_2024 Batch,Assessment,Documents,AryanOjha_C_assessment..docx
+419,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,setParity.c.txt
+420,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,sortArray.c.txt
+421,Ashwini,,Ashwini,Assessment Documents_2024 Batch,Assessment,Documents,Ashwini_C_Assessment.docx
+422,Ashwini,,,Assessment Documents_2024 Batch,Assessment,Documents,Solution1.c
+423,Ashwini,,,Assessment Documents_2024 Batch,Assessment,Documents,Solution2.c
+424,Bhavana,,Bhavana,Assessment Documents_2024 Batch,Assessment,Documents,Bhavana N S_C_Assessment.pdf
+425,Bhavana,,,Assessment Documents_2024 Batch,Assessment,Documents,parity_bit.c
+426,Bhavana,,,Assessment Documents_2024 Batch,Assessment,Documents,sort_find.c
+427,Chandu,,Chandu,Assessment Documents_2024 Batch,Assessment,Documents,C_assignment.(K_Chandu).docx
+428,Charan S,,Charan S ,Assessment Documents_2024 Batch,Assessment,Documents,C final assessment.pdf
+429,Charan S,,,Assessment Documents_2024 Batch,Assessment,Documents,firstpro.c
+430,Charan S,,,Assessment Documents_2024 Batch,Assessment,Documents,secondPro.c
+431,Chethan,,Chethan ,Assessment Documents_2024 Batch,Assessment,Documents,bitfield.c
+432,Chethan,,,Assessment Documents_2024 Batch,Assessment,Documents,c assignment.docx
+433,Chethan,,,Assessment Documents_2024 Batch,Assessment,Documents,sorting.c
+434,Jayashree,,Jayashree ,Assessment Documents_2024 Batch,Assessment,Documents,ASSESSMENT ON C.docx
+435,Jayashree,,,Assessment Documents_2024 Batch,Assessment,Documents,c_assessement1.c
+436,Jayashree,,,Assessment Documents_2024 Batch,Assessment,Documents,c_assessement2.c
+437,Manisha,,Manisha ,Assessment Documents_2024 Batch,Assessment,Documents,C Assessment-final(Manisha Kotte).pdf
+438,Manisha,,,Assessment Documents_2024 Batch,Assessment,Documents,paritycheck.c
+439,Manisha,,,Assessment Documents_2024 Batch,Assessment,Documents,sortfind.c
+440,Mihir,,Mihir,Assessment Documents_2024 Batch,Assessment,Documents,Mihir_Sahasrabudhe_C Assessment.docx
+441,Mihir,,,Assessment Documents_2024 Batch,Assessment,Documents,Mihir_Sahasrabudhe_C Assessment.pdf
+442,Mohammed Ayan Syed,,Mohammed Ayan Syed ,Assessment Documents_2024 Batch,Assessment,Documents,assessment on c mohammed ayan syed.docx
+443,Pramod,,Pramod ,Assessment Documents_2024 Batch,Assessment,Documents,code1.c
+444,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,code2.c
+445,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,Pramod_C_Program_Assessment.pdf
+446,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,C-Assessment_Sanjana.docx
+447,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,Question_1.c
+448,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,Question_2.c
+449,Shreya,,,Assessment Documents_2024 Batch,Assessment,Documents,C Assessment_Shreya.docx
+450,Shreya,,,Assessment Documents_2024 Batch,Assessment,Documents,parity.c
+451,Shreya,,,Assessment Documents_2024 Batch,Assessment,Documents,sort.c
+452,Sobia,,Sobia,Assessment Documents_2024 Batch,Assessment,Documents,C_Assessment_Sobia.docx
+453,Sobia,,,Assessment Documents_2024 Batch,Assessment,Documents,Setting_parity_bit.c
+454,Sobia,,,Assessment Documents_2024 Batch,Assessment,Documents,Sorting_find_missing_elements.c
+455,Suresh Kumar,,Suresh Kumar,Assessment Documents_2024 Batch,Assessment,Documents,Program1.c
+456,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,Program2.c
+457,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,SureshKumar_C_Assessment.pdf
+458,Suyash,,Suyash ,Assessment Documents_2024 Batch,Assessment,Documents,checkParity.c
+459,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,sorting.c
+460,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,Suyash_C_Assessment.docx
+461,Suyash,,Swati,Assessment Documents_2024 Batch,Assessment,Documents,output.docx
+462,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,Question1.c
+463,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,question2.c
+464,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,C_Assesment.pdf
+465,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,question1.c
+466,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,question2.c
+468,Amarnath Mahato,,,Assessment Documents_2024 Batch,Assessment,Documents,C++_assessment(Amarnath Mahato).docx
+469,Aryan Ojha,,Aryan Ojha ,Assessment Documents_2024 Batch,Assessment,Documents,Assessment-C++.docx
+470,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,que1.cpp
+471,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,que2.cpp
+472,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,que3.cpp
+473,Ashwini,,Ashwini ,Assessment Documents_2024 Batch,Assessment,Documents,Question 1
+474,Ashwini,,,Assessment Documents_2024 Batch,Assessment,Documents,Question 2
+475,Ashwini,,,Assessment Documents_2024 Batch,Assessment,Documents,Question 3
+476,Bhavana,,Bhavana ,Assessment Documents_2024 Batch,Assessment,Documents,C++ assessment.docx
+477,Bhavana,,,Assessment Documents_2024 Batch,Assessment,Documents,stack.cpp
+478,Bhavana,,,Assessment Documents_2024 Batch,Assessment,Documents,ticket.cpp
+479,Bhavana,,,Assessment Documents_2024 Batch,Assessment,Documents,vector.cpp
+480,Chandu,,,Assessment Documents_2024 Batch,Assessment,Documents,cpp_final assesssment.docx
+481,Charan,,Charan ,Assessment Documents_2024 Batch,Assessment,Documents,Cpp final assessment.pdf
+482,Chethan,,Chethan ,Assessment Documents_2024 Batch,Assessment,Documents,c++ assessment -CHETHAN.docx
+483,Jayashree,,Jayashree ,Assessment Documents_2024 Batch,Assessment,Documents,ASSESSMENT ON C++ by Jayashree.docx
+484,Manisha,,Manisha ,Assessment Documents_2024 Batch,Assessment,Documents,cpp main- assessment.docx
+485,Mihir,,Mihir,Assessment Documents_2024 Batch,Assessment,Documents,C++_Assessment_Mihir_Sahasrabudhe.pdf
+486,Mohammed Ayan Syed,,Mohammed Ayan Syed ,Assessment Documents_2024 Batch,Assessment,Documents,CPP ASSESSMENT.docx
+487,Pramod,,Pramod,Assessment Documents_2024 Batch,Assessment,Documents,Pramod_CPP_Exam.pdf
+488,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,question1.cpp
+489,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,question2.cpp
+490,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,question3.cpp
+491,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,TrainDetails.csv
+492,Razik,,Razik ,Assessment Documents_2024 Batch,Assessment,Documents,1.cpp
+493,Razik,,,Assessment Documents_2024 Batch,Assessment,Documents,2.cpp
+494,Razik,,,Assessment Documents_2024 Batch,Assessment,Documents,3.cpp
+495,Razik,,,Assessment Documents_2024 Batch,Assessment,Documents,CPP Assessment_razik.docx
+496,Razik,,,Assessment Documents_2024 Batch,Assessment,Documents,TrainDetails.csv
+497,Sanjana,,Sanjana ,Assessment Documents_2024 Batch,Assessment,Documents,C++ Assessment-Sanjana.docx
+498,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,reversing_stack.cpp
+499,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,train.cpp
+500,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,TrainDetails.csv
+501,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,vectorthread.cpp
+502,Shreya,,Shreya ,Assessment Documents_2024 Batch,Assessment,Documents,cpp.assesment.docx
+503,Sobia,,Sobia ,Assessment Documents_2024 Batch,Assessment,Documents,C++ Assessment.docx
+504,Suresh Kumar,,Suresh Kumar ,Assessment Documents_2024 Batch,Assessment,Documents,Problem1.cpp
+505,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,Problem2.cpp
+506,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,Problem3.cpp
+507,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,SureshKumar_CPP_Assessment.pdf
+508,Suyash,,Suyash ,Assessment Documents_2024 Batch,Assessment,Documents,duplicate.cpp
+509,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,reverse.cpp
+510,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,Suyash C++ Assessment.docx
+511,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,train.cpp
+512,Swati,,Swati ,Assessment Documents_2024 Batch,Assessment,Documents,c++ assessment.docx
+513,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,stacktemplate.cpp
+514,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,ticketbooking.cpp
+515,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,vector1d.cpp
+516,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,Output_Images.docx
+517,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,test1.cpp
+518,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,test2.cpp
+519,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,test3.cpp
+521,Amarnath Mahato,,Amarnath Mahato ,Assessment Documents_2024 Batch,Assessment,Documents,"65,66,80code consolidate Exam(Amarnath Mahato).docx"
+522,Amarnath Mahato,,,Assessment Documents_2024 Batch,Assessment,Documents,"65,66,80code consolidate Exam(Amarnath Mahato).pdf"
+523,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,AryanOjha_Consolidated.pdf
+524,Aryan Ojha,,,Assessment Documents_2024 Batch,Assessment,Documents,Consolidated Assessment.docx
+525,Ashwini,,Ashwini ,Assessment Documents_2024 Batch,Assessment,Documents,Python.docx
+526,Bhavana,,Bhavana ,Assessment Documents_2024 Batch,Assessment,Documents,time.py
+527,Chethan,,Chethan ,Assessment Documents_2024 Batch,Assessment,Documents,bmw.cpp
+528,Jayashree,,,Assessment Documents_2024 Batch,Assessment,Documents,c++_1.c++
+529,Jayashree,,,Assessment Documents_2024 Batch,Assessment,Documents,c++_1.exe
+530,Jayashree,,,Assessment Documents_2024 Batch,Assessment,Documents,puthon_2.py
+531,Jayashree,,,Assessment Documents_2024 Batch,Assessment,Documents,python_1.py
+532,Mohammed Ayan Syed,,Mohammed Ayan Syed,Assessment Documents_2024 Batch,Assessment,Documents,car_mangment.cpp
+533,Pramod,,Pramod,Assessment Documents_2024 Batch,Assessment,Documents,Promod_Consolidated_Coding.pdf
+534,Sanjana,,Sanjana,Assessment Documents_2024 Batch,Assessment,Documents,BMW.cpp
+535,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,Remove_duplicates.py
+536,Sanjana,,,Assessment Documents_2024 Batch,Assessment,Documents,time (2).cpp
+537,Shreya,,Shreya ,Assessment Documents_2024 Batch,Assessment,Documents,consolidated.pdf
+538,Suresh Kumar,,Suresh Kumar ,Assessment Documents_2024 Batch,Assessment,Documents,Assessment.docx
+539,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,Program.cpp
+540,Suyash,,Suyash ,Assessment Documents_2024 Batch,Assessment,Documents,Consolidated exam - Code.docx
+541,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,Suyash_consolidated.pdf
+542,Suyash,,,Assessment Documents_2024 Batch,Assessment,Documents,unique.py
+543,Swati,,Swati,Assessment Documents_2024 Batch,Assessment,Documents,BMw.cpp
+544,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,Consolidated assessment qp.pdf
+545,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,removeduplicateelements.py
+546,Swati,,,Assessment Documents_2024 Batch,Assessment,Documents,time.py
+548,Amarnath Mahato,,Amarnath Mahato,Assessment Documents_2024 Batch,Assessment,Documents,Amarnath Mahato _SPI_ASSESMENT.pdf
+549,Aryan Ojha,,Aryan Ojha,Assessment Documents_2024 Batch,Assessment,Documents,AryanOjha_SPI_Assesment.pdf
+550,Ashwini,,Ashwini,Assessment Documents_2024 Batch,Assessment,Documents,AshwiniPrabhuG_SPI_assessment.pdf
+551,Bhavana,,,Assessment Documents_2024 Batch,Assessment,Documents,Bhavana N S_I2C_SPI_UART.pdf
+552,Chandu,,,Assessment Documents_2024 Batch,Assessment,Documents,Chandu_assessment.pdf
+553,Charan,,,Assessment Documents_2024 Batch,Assessment,Documents,"Charan_I2C,SPI,UART Assessment.pdf"
+554,Chethan,,Chethan,Assessment Documents_2024 Batch,Assessment,Documents,chethan gowda IAST 261.pdf
+555,Jayashree,,Jayashree,Assessment Documents_2024 Batch,Assessment,Documents,Jayashree_SPI_ASSESSMENT.pdf
+556,Mihir,,,Assessment Documents_2024 Batch,Assessment,Documents,Mihir_Sahasrabudhe_SPI_Assessment.pdf
+557,Mohammed Ayan Syed,,,Assessment Documents_2024 Batch,Assessment,Documents,mohammed ayan syed SPI_assignment.pdf
+558,Pramod,,,Assessment Documents_2024 Batch,Assessment,Documents,PRAMOD_SPI_I2C_Assessmnet.pdf
+559,Manisha,,Manisha ,Assessment Documents_2024 Batch,Assessment,Documents,Protocals assessment-(Manisha kotte).pdf
+560,Sanjana,,Sanjana,Assessment Documents_2024 Batch,Assessment,Documents,Sanjana_SPI_Assessment.pdf
+561,Shreya,,Shreya,Assessment Documents_2024 Batch,Assessment,Documents,Shreya_SPI_assessment.pdf
+562,Sobia,,,Assessment Documents_2024 Batch,Assessment,Documents,Sobia_SPI_I2C_UART Assessment.pdf
+563,Suresh Kumar,,,Assessment Documents_2024 Batch,Assessment,Documents,SureshKumar_Communication_protocol_assessment.pdf
+564,Suyash,,Suyash,Assessment Documents_2024 Batch,Assessment,Documents,Suyash_SPI_assessment.pdf
+565,Swati,,Swati,Assessment Documents_2024 Batch,Assessment,Documents,swatikoli280_SPI_assessment.pdf
+566,Yashas,,,Assessment Documents_2024 Batch,Assessment,Documents,Yashas_D_U_Assignment.pdf
