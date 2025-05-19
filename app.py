@@ -3,6 +3,7 @@ from fuzzywuzzy import process
 import streamlit as st
 
 # Load the CSV file
+#This consists of the full excel sheets folders too
 df = pd.read_csv('Sharepoint MasterList_updated.csv')
 
 df[['Lvl 3 Folder name','Lvl 2 Folder name']]=df[['Lvl 3 Folder name','Lvl 2 Folder name']].fillna("NaN")
